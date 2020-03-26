@@ -1,5 +1,5 @@
 # Only build tags (Doesn't work - doesn't build anything)
-if: tag IS present AND 1 = pull_request
+if: 1 = 1
 
 rvm: 2.3.3
 
